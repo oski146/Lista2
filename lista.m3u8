@@ -1,2 +1,44 @@
+#EXTM3U
+#EXTINF:-1,Canal 5
+http://104.238.205.28:8989/158620_.m3u8
+#EXTINF:-1,Canal Las Estrellas
+http://152.200.150.150:8000/play/a0mn/index.m3u8
+
+#EXTINF:0,ANTENA 3
+http://143.255.87.30:8003/play/a03f/index.m3u8
+#EXTINF:-1,Antena 3
+http://152.200.150.150:8000/play/a0hb/index.m3u8
+
+#EXTINF:-1,A3SERIES
+http://152.200.150.150:8000/play/a0mq/index.m3u8
+
+#EXTINF:-1,La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1,La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1,La 1
+https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
+
+#EXTINF:-1,La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1,La 1
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1,La 1
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+
+#EXTINF:0,AXN HD
+http://143.255.87.30:8003/play/a01u/index.m3u8
+#EXTINF:-1,AXN
+http://152.200.150.150:8000/play/a0lr/index.m3u8
+#EXTINF:-1,AXN HD
+http://152.200.150.150:8000/play/a0n3/index.m3u8
+
 #EXTINF:-1,USA
-http://45.4.169.50:8000/play/a084
+http://152.200.150.150:8000/play/a0hd/index.m3u8
+#EXTINF:-1,USA SD
+http://152.200.150.150:8000/play/a0jj/index.m3u8
+
+#EXTINF:-1,Universal
+http://152.200.150.150:8000/play/a0mp/index.m3u8
+#EXTINF:0,UNIVERSAL CHANNEL HD
+http://143.255.87.30:8003/play/a01x/index.m3u8
