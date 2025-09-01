@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1,Canal 5
-http://104.238.205.28:8989/158620_.m3u8
-
-#EXTINF:-1,Antena 3
-http://152.200.150.150:8000/play/a0hb/index.m3u8
-#EXTINF:-1,Antena 3
-http://152.200.150.150:8000/play/a0mq/index.m3u8
-
-#EXTINF:-1,AXN HD
-http://152.200.150.150:8000/play/a0n3/index.m3u8
-
-#EXTINF:-1,USA
-http://152.200.150.150:8000/play/a0hd/index.m3u8
-
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://143.255.87.30:8003/play/a01x/index.m3u8
+#EXTINF:-1 group-title="-",USA
+http://186.167.114.171:7136/play/a0er/index.m3u8
+#EXTINF:-1 group-title="-",A3 HD
+http://149.62.177.98:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="-",ANTENA 3
+http://200.12.41.194:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="-",ATRES SERIES HD
+http://190.61.55.34:2401/play/a065/index.m3u8
+#EXTINF:-1 group-title="-",USA SD
+http://190.61.55.34:2401/play/a01t/index.m3u8
+#EXTINF:-1 group-title="-",USA
+http://161.132.9.180:8000/play/a0w8/index.m3u8
+#EXTINF:-1 group-title="-",USA SD
+http://177.253.236.139:7709/play/a0b7/index.m3u8
