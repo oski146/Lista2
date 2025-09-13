@@ -19,7 +19,7 @@ http://200.6.255.146:8090/play/a0o3/index.m3u8
 http://200.6.255.146:8090/play/a0qn/index.m3u8
 #EXTINF:-1 group-title="A3",Antena 3
 http://200.6.255.146:8090/play/a0qk/index.m3u8
-#EXTINF:11,Universal
+#EXTINF:-1 group-title="Universal",Universal
 http://45.228.234.30:16000/play/a023/index.m3u8
 #EXTINF:-1 group-title="Atres",ATRES SERIES
 http://186.167.114.171:7136/play/a0lb/index.m3u8
