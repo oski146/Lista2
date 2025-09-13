@@ -1,18 +1,47 @@
 #EXTM3U
-#EXTINF:-1,Antena 3
+#EXTINF:-1 group-title="Atres",ATRES SERIES HD
+http://148.222.228.3:9000/play/a09w/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN HD
+http://148.222.228.3:9000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="Universal",UNIVERSAL CHANNEL HD
+http://148.222.228.3:9000/play/a09h/index.m3u8
+#EXTINF:-1 group-title="A3",009 Antena 3
 http://190.14.10.19:16000/play/a038/index.m3u8
-#EXTINF:-1,Atres Series
-http://200.6.255.146:8090/play/a0qn/index.m3u8
-#EXTINF:-1,A3 HD
-149.62.177.98:8000/play/a01z/index.m3u8
-
-#EXTINF:-1,Universal
+#EXTINF:-1 group-title="AXN",012 AXN HD
+http://190.14.10.19:16000/play/a07o/index.m3u8
+#EXTINF:-1 group-title="Universal",118 Universal
 http://190.14.10.19:16000/play/a078/index.m3u8
-#EXTINF:-1,Universal
+#EXTINF:-1 group-title="AXN",0009 AXN HD
+http://200.6.255.146:8090/play/a0od/index.m3u8
+#EXTINF:-1 group-title="Atres",0071 Universal
+http://200.6.255.146:8090/play/a0o3/index.m3u8
+#EXTINF:-1 group-title="Atres",0111 Atres Series
+http://200.6.255.146:8090/play/a0qn/index.m3u8
+#EXTINF:-1 group-title="A3",Antena 3
+http://200.6.255.146:8090/play/a0qk/index.m3u8
+#EXTINF:11,Universal
 http://45.228.234.30:16000/play/a023/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
+#EXTINF:-1 group-title="Atres",ATRES SERIES
+http://186.167.114.171:7136/play/a0lb/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN
+http://186.167.114.171:7136/play/a0l6/index.m3u8
+#EXTINF:-1 group-title="A3",Antena 3
+http://186.167.114.171:7136/play/a0eo/index.m3u8
+#EXTINF:-1 group-title="Universal",UNIVERSAL CHANNEL HD
 http://186.167.114.171:7136/play/a0i5/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
+#EXTINF:-1 group-title="USA",USA
+http://186.167.114.171:7136/play/a0er/index.m3u8
+#EXTINF:-1 group-title="Atres",ATRES SERIES HD
+http://190.25.157.70:8000/play/a0cn/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN HD
+http://190.25.157.70:8000/play/a0g2/index.m3u8
+#EXTINF:-1 group-title="Universal",UNIVERSAL CHANNEL HD
 http://190.25.157.70:8000/play/a0gb/index.m3u8
-#EXTINF:-1,Universal
+#EXTINF:-1 group-title="A3",ANTENA 3
+http://200.12.41.194:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN
+http://200.12.41.194:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN HD
+http://200.12.41.194:8000/play/a0iy/index.m3u8
+#EXTINF:-1 group-title="Universal",Universal
 http://200.12.41.194:8000/play/a0ih/index.m3u8
