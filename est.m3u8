@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Azteca",AZTECA UNO
-http://45.186.107.173:8000/play/a05g/index.m3u8
 #EXTINF:-0 group-title="Azteca",Azteca uno
 http://201.174.175.3:8000/play/a0k4/index.m3u8
-#EXTINF:-1 group-title="USA",USA
-http://199.188.103.176:8000/play/a0bp/index.m3u8
-#EXTINF:-1 group-title="USA",USA SD
-http://199.188.103.176:8000/play/a0b6/index.m3u8
 #EXTINF:-1 group-title="USA",USA SD
 http://201.182.250.218:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="USA",USA SD
 http://181.205.205.173:8888/play/a0nm/index.m3u8
 #EXTINF:-1 group-title="USA",USA
 http://189.50.210.3:8008/play/a06z/index.m3u8
-#EXTINF:-1 group-title="USA",USA NETWORK
-http://45.5.151.251:8000/play/a02p/index.m3u8
