@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Azteca",AZTECA UNO
 http://45.186.107.173:8000/play/a05g/index.m3u8
-#EXTINF:-0 group-title="Azteca", 17 Azteca uno
+#EXTINF:-0 group-title="Azteca",Azteca uno
 http://201.174.175.3:8000/play/a0k4/index.m3u8
 #EXTINF:-1 group-title="USA",USA
 http://199.188.103.176:8000/play/a0bp/index.m3u8
