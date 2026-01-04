@@ -1,9 +1,72 @@
-#EXTM3U
-#EXTINF:-0 group-title="Azteca",Azteca uno
-http://201.174.175.3:8000/play/a0k4/index.m3u8
-#EXTINF:-1 group-title="USA",USA SD
-http://201.182.250.218:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="USA",USA SD
-http://181.205.205.173:8888/play/a0nm/index.m3u8
+#EXTINF:-1 group-title="AXN" tvg-logo="201.182.248.76:8000/playlist/tvg-logo/a15h.png",AXN
+http://201.182.248.76:8000/play/a15h/index.m3u8
+#EXTINF:-1 group-title="AXN" tvg-logo="201.182.248.76:8000/playlist/tvg-logo/a16z.png",AXN HD
+http://201.182.248.76:8000/play/a16z/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN
+http://200.6.182.118:8123/play/a0ci/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN HD
+http://200.6.182.118:8123/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN
+http://177.128.113.1:8000/play/a072
+#EXTINF:-1 group-title="AXN",AXN HD
+http://177.128.113.1:8000/play/a07q
+#EXTINF:-1 group-title="AXN",AXN HD
+http://201.217.246.84:9000/play/a09e/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN
+http://201.182.249.198:10013/play/a0k4/index.m3u8
+#EXTINF:-1 group-title="AXN",AXN HD
+http://148.222.230.220:8000/play/a00r
+#EXTINF:-1 group-title="AXN",AXN HD
+http://129.222.202.191:8000/play/a01t/index.m3u8
+
+
+#EXTINF:-1 group-title="Caracol" tvg-logo="201.182.248.76:8000/playlist/tvg-logo/a152.png",Canal Caracol
+http://201.182.248.76:8000/play/a152/index.m3u8
+#EXTINF:-1 group-title="Caracol",Caracol
+http://200.6.182.118:8123/play/a005/index.m3u8
+#EXTINF:-1 group-title="Caracol",Caracol HD
+http://201.182.249.198:10013/play/a0gv/index.m3u8
+#EXTINF:-1 group-title="Caracol",Canal Caracol
+http://181.78.211.244:8005/play/a087/index.m3u8
+#EXTINF:11 group-title="Caracol",Caracol HD
+http://181.78.82.6:46090/play/a074/index.m3u8
+#EXTINF:11 group-title="Caracol",CARACOL HD
+http://181.78.82.6:46090/play/a05y/index.m3u8
+#EXTINF:11 group-title="Caracol",CARACOL TV HD
+http://181.78.82.6:46090/play/a05x/index.m3u8
+#EXTINF:-1 group-title="Caracol",Caracol HD
+http://129.222.202.191:8000/play/a01a/index.m3u8
+
+
+#EXTINF:-1 group-title="Universal" tvg-logo="201.182.248.76:8000/playlist/tvg-logo/a17a.png",UNIVERSAL CHANNEL HD
+http://201.182.248.76:8000/play/a17a/index.m3u8
+#EXTINF:-1 group-title="Universal",UNIVERSAL CHANNEL HD
+http://200.6.182.118:8123/play/a052/index.m3u8
+#EXTINF:-1 group-title="Universal",UNIVERSAL CHANNEL HD
+http://177.128.113.1:8000/play/a08b
+#EXTINF:-1 group-title="Universal",Universal
+http://177.128.113.1:8000/play/a084
+#EXTINF:-1 group-title="Universal",Universal HD
+http://201.217.246.84:9000/play/a09i/index.m3u8
+#EXTINF:-1 group-title="Universal",UNIVERSAL CHANNEL HD
+http://201.182.249.198:10013/play/a0g6/index.m3u8
+#EXTINF:-1 group-title="Universal",Universal
+http://181.78.211.244:8005/play/a09c/index.m3u8
+#EXTINF:-1 group-title="Universal",UNIVERSAL CHANNEL HD
+http://148.222.230.220:8000/play/a01x
+#EXTINF:-1 group-title="Universal",UNIVERSAL CHANNEL HD
+http://129.222.202.191:8000/play/a051/index.m3u8
+
+
+#EXTINF:-1 group-title="USA" tvg-logo="201.182.248.76:8000/playlist/tvg-logo/a13h.png",USA
+http://201.182.248.76:8000/play/a13h/index.m3u8
 #EXTINF:-1 group-title="USA",USA
-http://189.50.210.3:8008/play/a06z/index.m3u8
+http://200.6.182.118:8123/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="USA",USA
+http://177.128.113.1:8000/play/a01g
+#EXTINF:-1 group-title="USA",USA Network
+http://201.217.246.84:9000/play/a068/index.m3u8
+#EXTINF:-1 group-title="USA",USA
+http://148.222.230.220:8000/play/a04e
+#EXTINF:-1 group-title="USA",USA
+http://129.222.202.191:8000/play/a04m/index.m3u8
